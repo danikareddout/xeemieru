@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eleibohnga.open.qa/sitemap.xml
